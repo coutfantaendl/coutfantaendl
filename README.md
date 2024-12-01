@@ -3,6 +3,9 @@
 </div>
 <div>
 <h1 align="center">Hi 👋, I'm Vlad</h1> <h3 align="center">A Unity Developer</h3> <p align="center"> </p> <p align="center">
+
+### 📫 How to reach me:
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-000?style=flat-square&logo=Telegram&logoColor=blue&link=https://github.com/vininjr/)](https://t.me/zero_no_more)
   
   <details close> 
 <summary><h2>📘 Languages and Tools:</h2></summary>
