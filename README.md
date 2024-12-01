@@ -1,4 +1,7 @@
-
+<div style="text-align: center;">
+  <img alt="Coding" width="1300" height="70%" src="https://i.gifer.com/290F.gif">
+</div>
+<div>
 <h1 align="center">Hi 👋, I'm Vlad</h1> <h3 align="center">A Unity Developer</h3> <p align="center"> </p> <p align="center">
   
   <details close> 
